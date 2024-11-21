@@ -9,7 +9,7 @@ variables:
 
   namespace: sangamtestws #Note: A namespace with many characters will cause storage account creation to fail due to storage account names having a limit of 24 characters.
   postfix: ap0x
-  location: westu
+  location: westus
 
   environment: prod
   enable_aml_computecluster: true
